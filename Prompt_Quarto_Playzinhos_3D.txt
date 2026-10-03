@@ -1,0 +1,30 @@
+PROMPT — O QUARTO DOS PLAYZINHOS / IT'S PLAY
+
+Atue como uma equipe experiente de design de jogos infantis, modelagem 3D e programação web. Desenvolva um jogo de vestir e combinar roupas para crianças de aproximadamente 6 anos, com o tema “O que vamos vestir hoje?”. Use os personagens oficiais e a logo da It's Play fornecidos como referências. Entregue um jogo funcional, com interface bonita, clara e apropriada para tablet.
+
+IDENTIDADE DOS PERSONAGENS
+Preserve o rosto branco, a cor, a antena, as engrenagens e a locomoção de cada personagem. Playzinho é verde, com uma antena de esfera azul, três engrenagens brancas e dois pés. Play Rosy é rosa, com uma antena, cílios, coração com engrenagens e saia. Enzo é amarelo, com antena de seta e exatamente uma roda, sem inventar pernas. Helena é azul, com uma antena e estrela no corpo. As imagens oficiais orientam as proporções. Não substitua os robôs por avatares genéricos.
+
+MODELAGEM E GIRO
+Os robôs devem ser malhas 3D reais, com espessura e superfícies visíveis de frente, perfil e costas. Use formas arredondadas, materiais de plástico acetinado, sombras suaves e iluminação acolhedora. A rotação deve revelar o volume real; não use uma imagem plana girando como se fosse um personagem tridimensional. Permita giro por arraste, por setas e por um botão de volta completa. Mantenha a câmera estável e a altura do personagem dentro do cenário.
+
+ROUPAS E ACESSÓRIOS
+Modele roupas e itens em 3D, ajustados às medidas do corpo e da cabeça de cada robô. Roupas devem envolver o torso; acessórios devem ficar no local correto: boné e gorro na cabeça, óculos no rosto, cachecol no pescoço, mochila nas costas, garrafa e guarda-chuva junto à mão. Evite peças flutuantes ou atravessando a malha. Preserve a identificação do personagem, com as engrenagens visíveis ou reproduzidas como emblema sobre a roupa. O catálogo deve mudar conforme a missão e o personagem. Play Rosy e Helena são meninas: ofereça vestidos de festa com saias rodadas, uniforme escolar com saia ou calça, tiara, laço, bolsinha, colar e brincos. Use cortes e volumes diferentes para cada situação: traje de festa, uniforme, casaco de frio, capa de chuva, roupa leve de verão e conjunto esportivo. Não diferencie as roupas apenas pela cor. Inclua opções inadequadas à missão para a criança comparar e escolher pelas regras.
+
+CENÁRIO E INTERFACE
+Crie o quarto dos robôs como um ambiente 3D completo: piso de madeira, tapete, cama, travesseiro, janela, cortinas, mesa, luminária e guarda-roupa aberto. Use uma paleta acolhedora e infantil com verde, ciano, amarelo, rosa e roxo. A logo oficial deve aparecer de forma nítida. Acrescente uma borda colorida ao jogo. Dê destaque ao personagem vestido e mantenha os controles separados do cenário, com contraste, hierarquia visual e botões amplos. A interface de referência serve como inspiração para a relação entre personagem, quarto e guarda-roupa, sem copiar suas personagens ou elementos de marca.
+
+JOGABILIDADE
+Inclua seleção de personagem e seis situações: escola, festa, frio, chuva, sol e esporte. Cada missão apresenta uma pequena história e duas regras observáveis. As peças têm características úteis, como roupa leve, proteção do frio, proteção da chuva, peça de festa, material escolar, proteção do sol e água para beber. A criança pode escolher uma roupa, uma peça de cabeça e um acessório, retirar peças e experimentar combinações. Ao conferir, explique em uma frase o que falta ou comemore o acerto. Aceite todas as combinações que atendam às regras. Recompense com estrela de ouro a solução que atende às regras com o menor número de peças, calculado a partir das combinações válidas, sem impor uma única aparência correta.
+
+ACESSIBILIDADE E CRIAÇÃO
+Use frases curtas e linguagem adequada a 6 anos. Inclua navegação por teclado, identificação de botões, feedback acessível e respeito à preferência por movimento reduzido. Não inclua modo livre nem o botão “Criar livremente”. Ao trocar a missão ou o personagem, limpe a roupa escolhida e atualize as peças disponíveis. Permita salvar uma foto do personagem vestido no ângulo escolhido. Não exija cadastro nem coleta de dados pessoais.
+
+ENTREGA E VERIFICAÇÃO
+Entregue index.html pronto para abrir no navegador, sem carregar bibliotecas pela internet, e um pacote para GitHub Pages com instruções. Inclua o código-fonte da cena 3D e a licença das dependências. Verifique as combinações das seis missões, o ajuste de todos os itens nos quatro robôs, o giro de 360 graus, o download de foto e a adaptação a celular e tablet. Inclua orientação amigável se o navegador não conseguir ativar WebGL.
+
+EXPANSÃO DO GUARDA-ROUPA — VERSÃO 4
+Catálogo com 100 itens. Crie cortes distintos, babados volumosos, pregas, jardineiras com alças, coletes, cardigãs, smoking, suspensórios, parka, suéter trançado, capas estampadas e uniformes esportivos. Modele acessórios ajustados: boina, coroa, tiara de flores, protetor de orelhas, chapéu pescador, viseira, bolsas de mão, bolsa escolar, bolsa de coração, colar de estrela, relógio, luvas e cantil. Mostre miniaturas diferentes e catálogo com rolagem. Mantenha as regras por características, as seis missões e o giro 3D.
+
+VERSÃO 5 — FIDELIDADE E CHUVA
+Reconstrua olhos em arcos suaves: verde em azul petróleo; rosa em roxo com cílios; azul em dourado com cílios; amarelo em verde oliva com sobrancelhas. Não use olhos em V. Inclua pescoço visível nos quatro robôs. Use as imagens 3D fornecidas nos seletores. Na chuva, meninos usam jaquetas impermeáveis retas; Playzinho com calça e Enzo com uma única roda, sem pernas. Capas abertas e ponchos ficam para Rosy e Helena. Não inclua leitura em voz alta nem botão de ouvir regras.
